@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+    height: 500px;
+    background-image: url(캡처.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#name {
+    display: flex;
+    font-size: 150%;
+    width: 1000px;
+    height: 0px;
+}
+#name p {
+    padding-left: 60px;
+    padding-top: 16px;
+}
+#earth {
+    padding-left: 1200px;
+    background-color: rgb(255, 255, 255,0.7);
+}
+#pow  {
+    font-size: 35px;
+    margin-left: 20px;
+}
+#box {
+    margin-top: 100px;
+    width: 700px;
+    height: 500px;
+    background-color: rgb(255, 255, 255, 0.3);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+
+}
+#gogo {
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+    font-size: 50px;
+}
+p {
+    font-size: 20px;
+    font-family: monospace;
+    padding-top: 30px;
+    margin-left: 0px;
+    
+}
+#rute  {
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    padding-left: 250px;
+    padding-top: 60px;
+    
+}
+
+#rail  {
+    padding-left: 0px;
+    padding-top: 10px;
+}
+#ui input {
+    width: 100px;
+    height: 100px;
+    border: 100px;
+}
+.ttt {
+    padding-top: 50px;
+    padding-left: 210px;
+}
+#yyy input {
+    margin-top: 30px;
+    margin-left: 280px;
+    width: 100px;
+    height: 50px;
+    color: white;
+    background-color: rgb(7, 241, 241);
+    border-radius: 10px;
+    border: none;
+    
+}

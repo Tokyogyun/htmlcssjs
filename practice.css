@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#in input {
+    width: 200px;
+    height: 50px;
+}

@@ -1,0 +1,213 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: white;
+}
+#toy  { 
+    margin-top: 20px;
+    color: gray;
+}
+#item {
+    padding-left: 200px;
+    width: 35px;
+}
+#reck {
+    padding-left: 970px;
+    width: 30px;
+}
+#nute {
+    padding-left: 10px;
+    width: 30px;
+}
+#kuku{
+    width: 650px;
+    height: 50px;
+    margin-left: 370px;
+    border-radius: 20px;
+    border: 1.5px solid; 
+    display: flex;
+    border-color: green;
+    
+}
+#kuku h5{
+    padding-left: 19px;
+    padding-top: 3px;
+    font-size: 30px;
+    color: rgb(32, 197, 32);
+    
+}
+#kuku input {
+    width: 480px;
+    height: 50px;
+    margin-left: 20px;
+    border: none;
+}
+#mu {
+    padding-top: 5px;
+    width: 40px;
+    height: 40px;
+}
+#bu {
+    padding-top: 10px;
+    padding-left: 15px;
+    width: 30px;
+    height: 30px;
+}
+#forever {
+    display: flex;
+    margin-top: 20px;  
+
+}
+#forever img {
+    width: 40px;
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: gainsboro;
+}
+#mail {
+    padding-left: 380px;
+}
+#mail p {
+    padding-left: 5px;
+}
+#mail a {
+    text-decoration: none;
+    color: black;
+}
+#cafe {
+    padding-left: 20px;
+}
+#cafe p {
+    padding-left: 5px;
+}
+#cafe a {
+    text-decoration: none;
+    color: black;
+}
+#blog {
+    padding-left: 20px;
+}
+#blog a {
+    text-decoration: none;
+    color: black;
+}
+#shop {
+    padding-left: 20px;
+}
+#shop p {
+    padding-left: 4px;
+}
+#shop a {
+    text-decoration: none;
+    color: black;
+}
+#news {
+    padding-left: 20px;
+}
+#news p {
+    padding-left: 4px;
+}
+#news a {
+    text-decoration: none;
+    color: black;
+}
+#money {
+    padding-left: 20px;
+}
+#money p {
+    padding-left: 4px;
+}
+#money a {
+    text-decoration: none;
+    color: black;
+}
+#home {
+    padding-left: 20px;
+}
+#home a {
+    text-decoration: none;
+    color: black;
+}
+#map {
+    padding-left: 20px;
+}
+#map p {
+    padding-left: 4px;
+}
+#map a {
+    text-decoration: none;
+    color: black;
+}
+#web {
+    padding-left: 20px;
+}
+#web p {
+    padding-left: 5px;
+}
+#web a {
+    text-decoration: none;
+    color: black;
+}
+#etc {
+    padding-left: 20px;
+}
+#pop {
+    width: 690px;
+    height: 130px;
+    margin-left: 190px;
+    margin-top: 50px;
+    border: 1px solid;
+    border-radius: 8px;
+    border-color: gainsboro;
+}
+#every {
+    display: flex;
+    width: 100%;
+    
+}
+#jing {
+    width: 380px;
+    height: 170px;
+    margin-top: 50px;
+    border: 1px solid;
+    border-radius: 8px;
+    margin-left: 15px;
+    border-color: gainsboro;
+}
+#jang p {
+    font-size: 15px;
+    padding-left: 44px;
+}
+#tang {
+    margin-top: 15px;
+}
+#jung {
+    margin-left: 65px;
+    padding-top: 15px;
+}
+#login_sever {
+    width: 330px;
+    height: 50px;
+    margin-left: 25px;
+    margin-top: 15px;
+    border: none;
+    background-color: rgb(12, 197, 52);
+    color: white;
+    font-size: 20px;
+}
+#find a {
+    text-decoration: none;
+    color: black;
+}
+#in p {
+    margin-left: 13px;
+}
+#in a {
+    text-decoration: none;
+    color: black;
+}
+#login_menu {
+    margin-top: 15px;
+}

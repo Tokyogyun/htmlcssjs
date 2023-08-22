@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: white;
+}
+#name {
+    display: flex;
+    font-size: 150%;
+    width: 1000px;
+    height: 0px;
+}
+#name p {
+    padding-left: 60px;
+    padding-top: 10px;
+}
+#earth {
+    padding-left: 1000px;
+}
+#pow  {
+    font-size: 35px;
+    margin-left: 10px;
+}

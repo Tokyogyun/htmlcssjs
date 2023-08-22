@@ -1,0 +1,146 @@
+ * {
+    margin: 0px;
+    padding: 0px;
+ }
+#body {
+    width: 400px;
+    height: 750px;
+    border: 7px solid darkturquoise;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+#title {
+    display: flex;
+    border: 2px;
+    margin-top: 40px
+}
+#title img {
+    width: 40px;
+    height: 40px;
+    margin-left: 15px;
+    margin-top: 4px;
+}
+#title h1 {
+    margin-left: 91px;
+   
+}
+#yuyu {
+    width: 500px;
+    height: 140px;
+    margin-left: 50px;
+    margin-top: 35px;
+    display: flex;
+}
+#img {
+    background-color: orange;
+    border: solid black;
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+    margin-top:10px;
+}
+#img img {
+    margin-top: 28px;
+     background-color: orange;
+     margin-left: 25px;
+     
+}
+#tu2 {
+    margin-left: 18px;
+}
+#tu2 p {
+    margin-top: 3px;
+}
+#arrow {
+    margin-left: 20px;
+    width: 160px;
+    height: 70px;
+    border: solid black;
+    border-radius: 15px;
+    display: flex;
+    border-bottom:7px solid black;
+    
+}
+#play img {
+    margin-top: 13px;
+    margin-left: 12px;
+}
+#arrow h1 {
+    margin-top: 10px;
+
+}
+#heart {
+    margin-left: 25px;
+    width: 70px;
+    height: 70px;
+    border: solid black;
+    border-radius: 100px;
+    border-bottom:7px solid black;
+}
+#maru img {
+     margin:11px;
+    
+}
+#start {
+    display: flex;
+}
+#plusimg {
+    margin-left: 20px;
+    width: 70px;
+    height: 70px;
+    border: solid black;
+    border-radius: 100px;
+    border-bottom:7px solid black;
+}
+#plusimg img {
+    margin: 11px
+}
+#color {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    background-color: red;
+    border-radius: 8px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#power {
+    display: flex;
+}
+#name {
+    margin-top: 30px;
+    margin-left: 10px;
+}
+#color2 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    background-color: pink;
+    border-radius: 8px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#name {
+    margin-top: 30px;
+    margin-left: 10px;
+}
+#color3 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    background-color: blue;
+    border-radius: 8px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#color4 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    background-color: rgba(1, 248, 153, 0.445);
+    border-radius: 8px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
