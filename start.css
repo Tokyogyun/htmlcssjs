@@ -2,50 +2,9 @@
   
 
 *{margin: 0; padding: 0;box-sizing: border-box;}
-.container {
-    width: 700px;
-    margin: 0 auto;
-    box-sizing: border-box;
-    height: 600px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    
-}
-header{
-    display: flex;
-    justify-content: space-between;
-    width: 180%;
-    align-items: center;
-}
-header>p {
-    font-size: 1.5rem;
-    font-weight: 700;
-}
-header>ul {
-    display: flex;
-}
-header>ul>li {
-    list-style-type: none;
-    margin-left: 1.5rem;
-}
-header>ul>li>a {
-    text-decoration: none;
-    font-size: 1.2rem;
-    font-weight: 800;
-    padding-bottom: 5px;
-}
-header>ul>li:first-child>a {
-    border-bottom: 5px solid black;
-}
-header>ul>li>a:hover {
-    border-bottom: 5px solid black;
-}
-
-
 body {
     font-family: 'Noto Sans KR', sans-serif;
+    display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -56,7 +15,7 @@ body::before {
     content: "";
     position: absolute; z-index: 1;
     top: 0; right: 0; left: 0; bottom: 0; 
-    background-color: rgba(182, 177, 177, 0.7);
+    background-color: rgba(0,0,0,.7);
 }
 
 .login-form {position: relative; z-index: 2;}
